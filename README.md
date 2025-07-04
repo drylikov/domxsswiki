@@ -18,3 +18,5 @@ This project aims also to identify sources and sinks methods exposed by public, 
 Go to the <a href="https://github.com/drylikov/domxsswiki/wiki/">wiki introduction</a> to start reading.
 
 
+
+👍

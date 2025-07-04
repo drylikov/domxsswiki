@@ -19,4 +19,4 @@ Go to the <a href="https://github.com/drylikov/domxsswiki/wiki/">wiki introducti
 
 
 
-👍
+👍👍👍

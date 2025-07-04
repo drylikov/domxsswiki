@@ -13,4 +13,6 @@ DOM XSS Test Cases Wiki is a KB for defining sources of attacker controlled inpu
 
 This project aims also to identify sources and sinks methods exposed by public, widely used javascript frameworks.
 
+
+
 Go to the <a href="https://github.com/drylikov/domxsswiki/wiki/">wiki introduction</a> to start reading.
